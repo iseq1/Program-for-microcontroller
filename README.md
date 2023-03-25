@@ -1,2 +1,2 @@
-# -ommunication-program-for-microcontroller
+# Сommunication-program-for-microcontroller
 Development of a communication program for microcontroller
